@@ -1,6 +1,6 @@
 ### ¡Hola! Qué gusto tenerte por aquí 👋
 
-Soy **Jorge Segura**, Desarrollador Frontend y Especialista en Soporte Técnico con base en Ecatepec, México. Me apasiona construir interfaces web limpias, funcionales y optimizadas, combinando el desarrollo de software con la resolución eficiente de problemas técnicos y multimedia.
+Soy **Jorge Erwin Segura Corona**, Desarrollador Frontend. Me apasiona construir interfaces web limpias, funcionales y optimizadas, combinando el desarrollo de software con la resolución eficiente de problemas técnicos y multimedia.
 
 ---
 
